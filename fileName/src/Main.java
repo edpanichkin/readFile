@@ -9,7 +9,8 @@ public class Main {
 
     public static void main(String[] args)  throws IOException {
 
-        WordsCount.uniqueSearch();
+       //все поломано WordsCount.uniqueSearch();
+        WordsSearchHash.uniqueSearchHash();
 
     }
 }
